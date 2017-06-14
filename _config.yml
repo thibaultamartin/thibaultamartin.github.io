@@ -6,8 +6,8 @@ paginate:     1
 
 # About/contact
 author:
-  name:       Author name
-  url:        http://yourhomepage.com 
+  name:       Thibault MARTIN
+  url:        http://www.thibaultmart.in
 
 # Gems
 gems:
@@ -15,3 +15,4 @@ gems:
 
 #Others
 markdown: kramdown
+permalink: pretty
