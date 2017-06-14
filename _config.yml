@@ -3,6 +3,7 @@ title:        Improvement by failure
 tagline:      Because hey, we're hoomans
 baseurl:      ""
 paginate:     1
+timezone:     Europe/Paris
 
 # About/contact
 author:
