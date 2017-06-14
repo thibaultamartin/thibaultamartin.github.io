@@ -27,7 +27,7 @@ Then I realised that if I wrote blog notes regularly, I would need to archive it
 
 A few moments of googling later, I discovered [Jekyll][2]. To put it simply: you write markdown, Jekyll makes a static blog out of it. Cool. Having a quick look at [Jekyll's skel][3], I found it quite explicit, and decided to give it a try.
 
-GitHub Pages
+# GitHub Pages
 Oh but wait, why host it myself if I can have free and secure hosting? Good news, [GitHub][4] offers the service [GitHub Pages][5] which can basically consist of… free hosting of your Jekyll blog. Sweet. It even supports [custom domains][6]!
 
 More on how I set it up in a next article.
